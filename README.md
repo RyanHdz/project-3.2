@@ -1,1 +1,1 @@
-# project-3.2
+Still need to add property tax and remove color scale
